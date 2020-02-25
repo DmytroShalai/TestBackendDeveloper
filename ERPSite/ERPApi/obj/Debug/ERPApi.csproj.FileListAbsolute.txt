@@ -1,0 +1,324 @@
+D:\Дмитро\Work\ERPSite\ERPApi\obj\Debug\ERPApi.csprojAssemblyReference.cache
+D:\Дмитро\Work\ERPSite\ERPApi\bin\ERPApi.dll.config
+D:\Дмитро\Work\ERPSite\ERPApi\bin\ERPApi.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\ERPApi.pdb
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\csc.exe
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\csc.exe.config
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\csc.rsp
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\csi.exe
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\csi.exe.config
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\csi.rsp
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\System.AppContext.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\System.Collections.Immutable.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\System.Console.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\System.Globalization.Calendars.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\System.IO.Compression.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\System.IO.FileSystem.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\System.Net.Http.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\System.Net.Sockets.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\System.ValueTuple.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\System.Xml.XPath.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\vbc.exe
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\vbc.exe.config
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\vbc.rsp
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\VBCSCompiler.exe
+D:\Дмитро\Work\ERPSite\ERPApi\bin\roslyn\VBCSCompiler.exe.config
+D:\Дмитро\Work\ERPSite\ERPApi\bin\Antlr3.Runtime.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\EntityFramework.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\EntityFramework.SqlServer.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\Microsoft.Web.Infrastructure.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\Newtonsoft.Json.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\System.Net.Http.Formatting.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\System.Web.Helpers.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\System.Web.Http.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\System.Web.Http.WebHost.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\System.Web.Mvc.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\System.Web.Optimization.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\System.Web.Razor.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\System.Web.WebPages.Deployment.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\System.Web.WebPages.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\System.Web.WebPages.Razor.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\WebGrease.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\EntityFramework.xml
+D:\Дмитро\Work\ERPSite\ERPApi\bin\EntityFramework.SqlServer.xml
+D:\Дмитро\Work\ERPSite\ERPApi\bin\Newtonsoft.Json.xml
+D:\Дмитро\Work\ERPSite\ERPApi\bin\System.Net.Http.Formatting.xml
+D:\Дмитро\Work\ERPSite\ERPApi\bin\System.Web.Helpers.xml
+D:\Дмитро\Work\ERPSite\ERPApi\bin\System.Web.Http.xml
+D:\Дмитро\Work\ERPSite\ERPApi\bin\System.Web.Http.WebHost.xml
+D:\Дмитро\Work\ERPSite\ERPApi\bin\System.Web.Mvc.xml
+D:\Дмитро\Work\ERPSite\ERPApi\bin\System.Web.Optimization.xml
+D:\Дмитро\Work\ERPSite\ERPApi\bin\System.Web.Razor.xml
+D:\Дмитро\Work\ERPSite\ERPApi\bin\System.Web.WebPages.xml
+D:\Дмитро\Work\ERPSite\ERPApi\bin\System.Web.WebPages.Deployment.xml
+D:\Дмитро\Work\ERPSite\ERPApi\bin\System.Web.WebPages.Razor.xml
+D:\Дмитро\Work\ERPSite\ERPApi\bin\Antlr3.Runtime.pdb
+D:\Дмитро\Work\ERPSite\ERPApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Дмитро\Work\ERPSite\ERPApi\bin\ru\EntityFramework.resources.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\ru\System.Web.Helpers.resources.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\ru\System.Web.Http.resources.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\ru\System.Web.Mvc.resources.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\ru\System.Web.Optimization.resources.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\ru\System.Web.Razor.resources.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\ru\System.Web.WebPages.resources.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Дмитро\Work\ERPSite\ERPApi\obj\Debug\ERPApi.csproj.CopyComplete
+D:\Дмитро\Work\ERPSite\ERPApi\obj\Debug\ERPApi.dll
+D:\Дмитро\Work\ERPSite\ERPApi\obj\Debug\ERPApi.pdb
+D:\Дмитро\Work\ERPSite\ERPApi\obj\Debug\ERPApi.Migrations.Create.resources
+D:\Дмитро\Work\ERPSite\ERPApi\obj\Debug\ERPApi.csproj.GenerateResource.cache
+D:\Дмитро\Work\ERPSite\ERPApi\bin\ERPApi.xml
+D:\Дмитро\Work\ERPSite\ERPApi\bin\Swashbuckle.Core.dll
+D:\Дмитро\Work\ERPSite\ERPApi\bin\WebActivatorEx.dll
+D:\Дмитро\Work\ERPSite\ERPApi\obj\Debug\ERPApi.Migrations.Step1.resources
+D:\Дмитро\Work\ERPSite\ERPApi\obj\Debug\ERPApi.Migrations.Step2.resources
+D:\Дмитро\Work\ERPSite\ERPApi\obj\Debug\ERPApi.Migrations.Step3.resources
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\ERPApi.dll.config
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\ERPApi.xml
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\ERPApi.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\ERPApi.pdb
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\csc.exe
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\csc.exe.config
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\csc.rsp
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\csi.exe
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\csi.exe.config
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\csi.rsp
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\System.AppContext.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\System.Collections.Immutable.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\System.Console.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\System.Globalization.Calendars.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\System.IO.Compression.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\System.IO.FileSystem.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\System.Net.Http.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\System.Net.Sockets.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\System.ValueTuple.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\System.Xml.XPath.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\vbc.exe
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\vbc.exe.config
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\vbc.rsp
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\VBCSCompiler.exe
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\roslyn\VBCSCompiler.exe.config
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\Antlr3.Runtime.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\EntityFramework.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\EntityFramework.SqlServer.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\Microsoft.Web.Infrastructure.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\Newtonsoft.Json.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\Swashbuckle.Core.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\System.Net.Http.Formatting.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\System.Web.Helpers.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\System.Web.Http.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\System.Web.Http.WebHost.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\System.Web.Mvc.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\System.Web.Optimization.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\System.Web.Razor.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\System.Web.WebPages.Deployment.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\System.Web.WebPages.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\System.Web.WebPages.Razor.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\WebActivatorEx.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\WebGrease.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\EntityFramework.xml
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\EntityFramework.SqlServer.xml
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\Newtonsoft.Json.xml
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\System.Net.Http.Formatting.xml
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\System.Web.Helpers.xml
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\System.Web.Http.xml
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\System.Web.Http.WebHost.xml
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\System.Web.Mvc.xml
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\System.Web.Optimization.xml
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\System.Web.Razor.xml
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\System.Web.WebPages.xml
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\System.Web.WebPages.Deployment.xml
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\System.Web.WebPages.Razor.xml
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\Antlr3.Runtime.pdb
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\ru\EntityFramework.resources.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\ru\System.Web.Helpers.resources.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\ru\System.Web.Http.resources.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\ru\System.Web.Mvc.resources.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\ru\System.Web.Optimization.resources.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\ru\System.Web.Razor.resources.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\ru\System.Web.WebPages.resources.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\obj\Debug\ERPApi.csprojAssemblyReference.cache
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\obj\Debug\ERPApi.Migrations.Create.resources
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\obj\Debug\ERPApi.Migrations.Step1.resources
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\obj\Debug\ERPApi.Migrations.Step2.resources
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\obj\Debug\ERPApi.Migrations.Step3.resources
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\obj\Debug\ERPApi.csproj.GenerateResource.cache
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\obj\Debug\ERPApi.csproj.CopyComplete
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\obj\Debug\ERPApi.dll
+D:\Дмитро\Work\Test task\ERPSite\ERPApi\obj\Debug\ERPApi.pdb
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\ERPApi.dll.config
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\ERPApi.xml
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\ERPApi.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\ERPApi.pdb
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\csc.exe
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\csc.exe.config
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\csc.rsp
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\csi.exe
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\csi.exe.config
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\csi.rsp
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\System.AppContext.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\System.Collections.Immutable.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\System.Console.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\System.Globalization.Calendars.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\System.IO.Compression.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\System.IO.FileSystem.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\System.Net.Http.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\System.Net.Sockets.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\System.ValueTuple.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\System.Xml.XPath.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\vbc.exe
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\vbc.exe.config
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\vbc.rsp
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\VBCSCompiler.exe
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\roslyn\VBCSCompiler.exe.config
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\Antlr3.Runtime.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\EntityFramework.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\EntityFramework.SqlServer.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\Microsoft.Web.Infrastructure.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\Newtonsoft.Json.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\Swashbuckle.Core.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\System.Net.Http.Formatting.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\System.Web.Helpers.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\System.Web.Http.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\System.Web.Http.WebHost.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\System.Web.Mvc.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\System.Web.Optimization.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\System.Web.Razor.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\System.Web.WebPages.Deployment.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\System.Web.WebPages.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\System.Web.WebPages.Razor.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\WebActivatorEx.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\WebGrease.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\EntityFramework.xml
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\EntityFramework.SqlServer.xml
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\Newtonsoft.Json.xml
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\System.Net.Http.Formatting.xml
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\System.Web.Helpers.xml
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\System.Web.Http.xml
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\System.Web.Http.WebHost.xml
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\System.Web.Mvc.xml
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\System.Web.Optimization.xml
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\System.Web.Razor.xml
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\System.Web.WebPages.xml
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\System.Web.WebPages.Deployment.xml
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\System.Web.WebPages.Razor.xml
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\Antlr3.Runtime.pdb
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\ru\EntityFramework.resources.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\ru\System.Web.Helpers.resources.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\ru\System.Web.Http.resources.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\ru\System.Web.Mvc.resources.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\ru\System.Web.Optimization.resources.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\ru\System.Web.Razor.resources.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\ru\System.Web.WebPages.resources.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\obj\Debug\ERPApi.csprojAssemblyReference.cache
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\obj\Debug\ERPApi.Migrations.Create.resources
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\obj\Debug\ERPApi.Migrations.Step1.resources
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\obj\Debug\ERPApi.Migrations.Step2.resources
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\obj\Debug\ERPApi.Migrations.Step3.resources
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\obj\Debug\ERPApi.csproj.GenerateResource.cache
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\obj\Debug\ERPApi.csproj.CopyComplete
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\obj\Debug\ERPApi.dll
+D:\Дмитро\Work\Test task\TestBackendDeveloper\ERPSite\ERPApi\obj\Debug\ERPApi.pdb

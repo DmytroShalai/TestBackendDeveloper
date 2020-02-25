@@ -1,0 +1,30 @@
+﻿@model List<ERPSite.Models.ProjectsPartViewModel>
+    <div>
+        <table class="table-bordered col-md-12">
+            <tr>
+                <th style="text-align:center; font:bold">Название проекта</th>
+                <th style="text-align:center; font:bold">Компания</th>
+                <th style="text-align:center; font:bold">Тип проекта</th>
+                <th style="text-align:center; font:bold" class="col-md-2"></th>
+                <th style="text-align:center; font:bold" class="col-md-2"></th>
+            </tr>
+            @for (int i = 0; i < Model.Count(); i++)
+            {
+                <tr>
+                    <td>
+                        @Model[i].Title
+                    </td>
+                    <td>
+                        @Model[i].Organization
+                    </td>
+                    <td>
+                        @Model[i].TypeName
+                    </td>
+                    <td>
+                        @Html.ActionLink("Подробнее", "Projects", "ProjectDetalInfo", new { id = @Model[i].ID }, new { @class = "navbar-brand" })
+                    </td>
+                </tr>
+
+            }
+        </table>
+    </div>

@@ -1,0 +1,115 @@
+﻿@model ERPSite.Models.ProjectDetalInfoViewModel
+
+@{
+    ViewBag.Title = "Подробная информация";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+    <h2>Подробная информация</h2>
+
+    <div>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Title)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Title)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Description)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Description)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Organization)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Organization)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Start)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Start)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.End)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.End)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.ProjectTypeName)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.ProjectTypeName)
+            </dd>
+
+
+
+            <dt>
+                @Html.DisplayNameFor(model => model.ProjectsSkills)
+            </dt>
+
+            <dd>
+                @for (int i = 0; i < Model.ProjectsSkills.Count(); i++)
+                {
+                    @Html.DisplayFor(model => model.ProjectsSkills[i].Name, "Name")
+                    <br />
+                }
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.Created)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Created)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Updated)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Updated)
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.Files)
+            </dt>
+
+            <dd>
+                @for (int i = 0; i < Model.Files.Count(); i++)
+                {
+                    <a href="/Projects/LoadFile?fileId=@Model.Files[i].Id" target="_blank">@Model.Files[i].FileName</a>
+                    <br />
+                }
+            </dd>
+
+        </dl>
+    </div>
+<p>
+    @Html.ActionLink("Редактировать", "ProjectDetalInfoEdit", new { id = Model.ID })<br />
+    @Html.ActionLink("Вернуться обратно", "Index")
+
+</p>
+<div id="divFile" ></div>
+<script type="text/javascript">
+
+        function loadFile(id) {          
+            $("#divFile").load("/Projects/LoadFile/", { fileId: id});
+
+        }
+</script>

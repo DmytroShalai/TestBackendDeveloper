@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewBag.Title = "ProjectCreateWithFile";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+    <h2>Создание проекта на основе MS Exel файла</h2>
+
+    <div>
+        @using (Html.BeginForm("ProjectCreateWithFile", "Projects", FormMethod.Post, new { enctype = "multipart/form-data", id = "frm-excel" }))
+        {
+            <div>
+                Загрузите Excel-файл:
+                <input type="file" name="fileExcel" id="fileExcel" accept=".xls,.xlsx" />
+                <div>
+                    <input type="submit" value="Создать проект" />
+                </div>
+            </div>
+        }
+    </div>
+

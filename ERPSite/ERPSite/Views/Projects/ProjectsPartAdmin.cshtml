@@ -1,0 +1,50 @@
+﻿@model List<ERPSite.Models.ProjectsPartViewModel>
+    <div>
+        <table class="table-bordered col-md-12">
+            <tr>
+                <th style="text-align:center; font:bold">Название проекта</th>
+                <th style="text-align:center; font:bold">Компания</th>
+                <th style="text-align:center; font:bold">Тип проекта</th>
+                <th style="text-align:center; font:bold" class="col-md-2"></th>
+                <th style="text-align:center; font:bold" class="col-md-2"></th>
+            </tr>
+            @for (int i = 0; i < Model.Count(); i++)
+            {
+        <tr>
+            <td>
+                @Model[i].Title
+            </td>
+            <td>
+                @Model[i].Organization
+            </td>
+            <td>
+                @Model[i].TypeName
+            </td>
+            <td>
+                @Html.ActionLink("Подробнее", "ProjectDetalInfo", "Projects", new { id = @Model[i].ID }, new { @class = "navbar-brand" })
+            </td>
+            <td>
+                <a id="remove" onclick="removeProject(@Model[i].ID)" href="#" class="navbar-brand">Удалить</a>
+               
+            </td>
+        </tr>
+
+            }
+        </table>
+    </div>
+    <script type="text/javascript">
+   
+  
+        function removeProject(id) {
+            $.post("/Projects/RemoveProject/" + id,
+                { projectId: id },
+                function (data) {
+                if (data=="true") {
+                    loadProjectsPart();
+                }
+        });
+        
+
+         
+    }
+    </script>

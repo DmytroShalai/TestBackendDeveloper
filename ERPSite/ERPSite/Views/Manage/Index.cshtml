@@ -1,0 +1,64 @@
+﻿@model ERPSite.Models.IndexViewModel
+@{
+    ViewBag.Title = "Профиль";
+}
+
+<h2>@ViewBag.Title.</h2>
+
+<p class="text-success">@ViewBag.StatusMessage</p>
+<div>
+
+    <img src="@Model.Image" alt="Добавьте аватарку" />
+
+    <div class="form-group">
+        <p class="col-md-2 control-label">Добавить аватарку:</p>
+        <div class="col-md-10">
+            <form asp-action="UploadImage"
+                  asp-controller="Manage/UploadImage"
+                  method="post"
+                  enctype="multipart/form-data">
+                <input type="file" id="postedFile"
+                       name="postedFile" accept="image/jpeg,image/png" />
+                <button type="submit">Загрузить файл</button>
+            </form>
+        </div>
+    </div>
+
+
+
+    <div class="form-group">
+        <h4>@Model.FName @Model.Name @Model.SurName</h4>
+    </div>
+    <hr />
+    <div class="form-group">
+        <p class="col-md-2 control-label">Логін:</p>
+        <div class="col-md-10">
+            <p class="form-control"> @Model.Email</p>
+        </div>
+    </div>
+    <div class="form-group">
+        <p class="col-md-2 control-label">Роль:</p>
+        <div class="col-md-10">
+            <p class="form-control"> @Model.RolesName</p>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <p class="col-md-2 control-label">Пароль:</p>
+        <div class="col-md-10">
+            [
+            @if (Model.HasPassword)
+            {
+                @Html.ActionLink("Смена пароля", "ChangePassword")
+            }
+            else
+            {
+                @Html.ActionLink("Создать", "SetPassword")
+            }
+            ]
+        </div>
+    </div>
+
+
+
+</div>

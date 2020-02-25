@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERPSite", "ERPSite\ERPSite.csproj", "{6296E63A-90D3-4491-9BB5-CAFD37959D96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERPApi", "ERPApi\ERPApi.csproj", "{D75E7F9A-813F-47E1-8856-E16AA82DA87F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6296E63A-90D3-4491-9BB5-CAFD37959D96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6296E63A-90D3-4491-9BB5-CAFD37959D96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6296E63A-90D3-4491-9BB5-CAFD37959D96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6296E63A-90D3-4491-9BB5-CAFD37959D96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D75E7F9A-813F-47E1-8856-E16AA82DA87F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D75E7F9A-813F-47E1-8856-E16AA82DA87F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D75E7F9A-813F-47E1-8856-E16AA82DA87F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D75E7F9A-813F-47E1-8856-E16AA82DA87F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F881A1F3-2D02-4E48-98BE-95F377B6988B}
+	EndGlobalSection
+EndGlobal

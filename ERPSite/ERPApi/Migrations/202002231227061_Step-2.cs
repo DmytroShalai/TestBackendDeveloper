@@ -1,0 +1,18 @@
+namespace ERPApi.Migrations
+{
+    using System;
+    using System.Data.Entity.Migrations;
+    
+    public partial class Step2 : DbMigration
+    {
+        public override void Up()
+        {
+            AlterColumn("dbo.Files", "FileName", c => c.String(nullable: false));
+        }
+        
+        public override void Down()
+        {
+            AlterColumn("dbo.Files", "FileName", c => c.String());
+        }
+    }
+}
